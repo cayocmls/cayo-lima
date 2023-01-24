@@ -1,5 +1,5 @@
 #<h1 align="center">Olá 👋, Eu sou cayo</h1>
-<h3 align="center">Sou apaixonado por análises de dados, e suas infinitas possibilidades</h3>
+<h3 align="center">Sou apaixonado por análises de dados, e suas infinitas possibilidades.</h3>
 
 - 🌱 I’m currently learning **R and Python language**
 
