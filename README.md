@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://cayocmls00.wixsite.com/my-site](https://cayocmls00.wixsite.com/my-site)
 
-- 💬 Ask me about **Física, Análises Dados e Programação...**
+- 💬 Ask me about **physics, data analysis and programming.**
 
 - 📫 How to reach me **cayocmls@hotmail.com**
 
